@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import CatComponent from './components/CatComponent.js';
-import GraceHopperQuoteComponent from './components/GraceHopperQuoteComponent.js';
-import MouseComponent from './components/MouseComponent.js';
+import CatComponent from './CatComponent.js';
+import {GraceHopperQuoteComponent} from './GraceHopperQuoteComponent.js';
+import MouseComponent from './MouseComponent.js';
 
 
 
