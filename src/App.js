@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import CatComponent from './CatComponent.js';
+import {CatComponent} from './CatComponent.js';
 import {GraceHopperQuoteComponent} from './GraceHopperQuoteComponent.js';
-import MouseComponent from './MouseComponent.js';
+import {MouseComponent} from './MouseComponent.js';
 
 
 
@@ -19,5 +19,5 @@ class App extends Component {
 	}
 }
 
-export default App;
+
 
